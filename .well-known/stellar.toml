@@ -1,32 +1,32 @@
-# fwb-team <fwb-team.github.io>
+# fwc-team <fwc-team.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDQGCIEOZPQNLOIWPYAVZUXFOV54SJ6UVF2NKISZ3FFSDSUB2IBIGHUF"
+"GCOEBMWEAYQXTEZQSA7CR2NNRRVGZQOWDQZVQVSZM3VPRDUBWBLTIGOC"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="fwb-team"
-ORG_URL="https://fwb-team.github.io"
-ORG_LOGO = "https://fwb-team.github.io/img/fwb.png"
-ORG_OFFICIAL_EMAIL="0xfwbteam@gmail.com"
-ORG_SUPPORT_EMAIL="0xfwbteam@gmail.com"
-ORG_TWITTER="0xfwbteam"
-ORG_DESCRIPTION="fwbteam: Create Value to NFT Space"
+ORG_NAME="fwc-team"
+ORG_URL="https://fwc-team.github.io"
+ORG_LOGO = "https://fwc-team.github.io/img/fwc.png"
+ORG_OFFICIAL_EMAIL="fwcteam@aol.com"
+ORG_SUPPORT_EMAIL="fwcteam@aol.com"
+ORG_TWITTER="0xfwcteam"
+ORG_DESCRIPTION="fwc-team: Create Value to NFT Space"
 
 [[PRINCIPALS]]
-email="0xfwbteam@gmail.com"
+email="fwcteam@aol.com"
 
 [[CURRENCIES]]
-code = "FWB"
-name = "FWB"
-issuer = "GDQGCIEOZPQNLOIWPYAVZUXFOV54SJ6UVF2NKISZ3FFSDSUB2IBIGHUF"
+code = "FWC"
+name = "FWC"
+issuer = "GCOEBMWEAYQXTEZQSA7CR2NNRRVGZQOWDQZVQVSZM3VPRDUBWBLTIGOC"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is token of FWB."
-image="https://fwb-team.github.io/img/fwb.png"
-conditions="There will only ever be 1 billion FWB tokens in existence."
+desc="This is token of FWC."
+image="https://fwc-team.github.io/img/fwc.png"
+conditions="There will only ever be 1 billion FWC tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
